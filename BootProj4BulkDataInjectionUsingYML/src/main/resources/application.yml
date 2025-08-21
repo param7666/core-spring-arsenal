@@ -1,0 +1,7 @@
+emp:
+   info:
+     id: 101
+     name: "Param"
+     sirname: "Gurlewad"
+     addrs: "Hyd"
+     mobile-no: 7777777
