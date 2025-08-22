@@ -56,8 +56,7 @@ core-spring-projects/
 
 Clone the repository
 
-git clone https://github.com/your-username/core-spring-projects.git
-cd core-spring-projects
+git clone https://github.com/param7666/core-spring-arsenal    cd core-spring-projects
 
 
 Import into IDE
